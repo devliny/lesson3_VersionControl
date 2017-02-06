@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+02/03/2017
 
 ## Student Name:  
-(First and Last Name)
+Devlin Yorker
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This project is used to illustrate the use of version control, more specifically git. The project also instructed us on how to use some basic git commands and set up a git repository. 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned what Version Control is and how it is useful in development.
+2. I learned how to set up a git repository and how to connect it to Cloud 9
+3. I learned how to push files to my git repository from Cloud 9
